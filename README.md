@@ -1,5 +1,7 @@
 # Code-Refactor-HMWK-1
 
+Website URL: 
+
 Description:
 The goal of this assignment was to refactor the code provided or make changes to the code without changing the the anything on the site. The approach that I took was simply making changes that would make reviewing and editing the code easier to do than when I started, add accessibility to the site, and understanding comments within the css code easy. The following updates were made:
     1. Added alt text to all of the images that were listed in the index.html and the style.css
@@ -9,3 +11,6 @@ The goal of this assignment was to refactor the code provided or make changes to
     5. Combined 3 divs under the content class for the selector in css file* (".content div")
     6. Combined 3 images within the content class for the selector in css file (".content img")
     7. Combined h2 headings within the content class for the selector in css file (".content h2")
+
+
+![image](https://user-images.githubusercontent.com/82773167/116842166-a91ced00-aba9-11eb-9fb0-fa9f0138f138.png)
