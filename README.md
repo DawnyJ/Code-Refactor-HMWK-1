@@ -1,6 +1,6 @@
 # Code-Refactor-HMWK-1
 
-Website URL: 
+Website URL: https://DawnyJ.github.io/Code-Refactor-HMWK-1
 
 Description:
 The goal of this assignment was to refactor the code provided or make changes to the code without changing the the anything on the site. The approach that I took was simply making changes that would make reviewing and editing the code easier to do than when I started, add accessibility to the site, and understanding comments within the css code easy. The following updates were made:
